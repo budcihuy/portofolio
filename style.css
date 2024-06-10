@@ -1,0 +1,119 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #092d01;
+}
+
+header {
+    background-color: #03600e;
+    color: rgb(0, 0, 0);
+    padding: 1rem 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: rgb(240, 237, 49);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#home {
+    text-align: center;
+    background-color: rgb(206, 204, 204);
+}
+
+.profile-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 20%;
+    margin-top: 10px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+#kontak {
+    background-color: seagreen;
+    color: aliceblue;
+}
+
+.st{
+    color: white;
+}
+.dw{
+    color: white;
+}
+.tg{
+    color: white;
+}
+.ep{
+    color: white;
+}
+
+#hobi {
+    background-color: #fffacd;
+}
+q
+#pendidikan {
+    background-color: #e0ffff;
+}
+
+#motivasi {
+    background-color: #fafad2;
+    font-style: italic;
+    text-align: center;
+}
+
+footer {
+    background-color: #dce056;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+p, ul {
+    color: #555;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul li a {
+    color: #4682b4;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
